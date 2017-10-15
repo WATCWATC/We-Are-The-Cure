@@ -4,7 +4,7 @@
     <p> If you would like to make a change in your community as well as others. Join our team! Bellow, fill in your Contact information and answer the Following questions.Tell us a little about yourself.</p>
     
  <form method="post" action="https://app.pipelinedeals.com/web_lead">
-    <input type="hidden" name="w2lid" value="	4e172d5d0a29" />
+    <input type="hidden" name="w2lid" value="4e172d5d0a29" />
     <input type="hidden" name="thank_you_page" value="https://s3.amazonaws.com/uploads.hipchat.com/514/4863862/cWZs6B3pPD4NC5o/sd-me-rainfall-contest-reminder-20161101.jpg" />
 
      <p>First Name:</p>
@@ -40,7 +40,9 @@
      <p>Tell us, your story:</p>
      <input type="text" name="lead[custom_fields][1965202]" />
      
-     <input type="radio" type="hidden" name="lead[custom_fields][1965196]" value="3140503" checked="checked"/>
+     <br><br><!--How do I hide this selection, so that it can continue to appear in CRM?-->
+     <input type="radio" name="lead[custom_fields][1965196]" value="3140503" checked="checked"/>We are the Community, We are the Change
+     
      <br><br><input type="submit" value="Submit" />
      
 </form>     
