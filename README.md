@@ -40,8 +40,8 @@
      <p>Tell us, your story:</p>
      <input type="text" name="lead[custom_fields][1965202]" />
      
-     <br><br><!--How do I hide this selection, so that it can continue to appear in CRM?-->
-     <input type="radio" name="lead[custom_fields][1965196]" value="3140503" checked="checked"/>We are the Community, We are the Change
+     <br><br><!--We are the Community, We are the Change, Tag-->
+     <input type="hidden" name="lead[custom_fields][1965196]" value="3140503" checked="checked"/>
      
      <br><br><input type="submit" value="Submit" />
      
