@@ -3,8 +3,8 @@
     <h2>Join The Team</h2>
     <p> If you would like to make a change in your community as well as others. Join our team! Bellow, fill in your Contact information and answer the Following questions.Tell us a little about yourself.</p>
     
- <form method="post" action="https://app.pipelinedeals.com/web_lead">
-    <input type="hidden" name="w2lid" value="4e172d5d0a29" />
+ <form method="post" action="XXXXXXXX.com">
+    <input type="hidden" name="w2lid" value="xxxxxxxx" />
     <input type="hidden" name="thank_you_page" value="https://s3.amazonaws.com/uploads.hipchat.com/514/4863862/cWZs6B3pPD4NC5o/sd-me-rainfall-contest-reminder-20161101.jpg" />
 
      <p>First Name:</p>
